@@ -1,6 +1,6 @@
 <html><body>
-<!--StartFragment--><html><head></head><body><h1>Kerry Group Financial Insights Power BI Dashboard</h1>
-<p>This repository contains a <strong>Power BI Dashboard</strong> built for <strong>Kerry Group plc</strong> (Ireland) to analyse <strong>financial performance</strong> from <strong>FY 2022 through Q1 2025.</strong></p>
+<!--StartFragment--><html><head></head><body><h1>Kerry Group Financial Performance Insights</h1>
+<p>This repository contains an interactive <strong>Power BI Dashboard</strong> built for <strong>Kerry Group plc</strong> (Ireland) to analyse <strong>financial performance</strong> from <strong>FY 2022 through Q1 2025.</strong></p>
 <p>The project demonstrates:</p>
 <ul>
 <li>

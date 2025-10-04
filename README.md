@@ -96,7 +96,7 @@ Overview Dashboard
 <p>Open <code>pbix/Kerry_Financial_Dashboard.pbix</code> in Power BI Desktop.</p>
 </li>
 <li>
-<p>Explore the dashboard (use slicers for Year, Quarter, Region).</p>
+<p>Explore the dashboard (use slicers for Year, Quarter).</p>
 </li>
 <li>
 <p>To refresh data, replace <code>data/kerry_fact_financials.csv</code> with the latest dataset.</p>

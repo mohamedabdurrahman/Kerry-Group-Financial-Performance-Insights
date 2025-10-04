@@ -35,7 +35,7 @@
 <p><strong>Trend charts</strong>: Revenue vs. EBITDA margin over time</p>
 </li>
 <li>
-<p><strong>Slicers</strong>: Year, Quarter, Region, Segment</p>
+<p><strong>Slicers</strong>: Year, Quarter, Segment</p>
 </li>
 <li>
 <p><strong>Dynamic YoY / QoQ growth indicators</strong></p>
@@ -63,6 +63,7 @@
 │
 ├── data/
 │   └── kerry_fact_financials.csv          # Fact financial dataset
+│   └── Date_Table.csv                     # Date Table dataset
 ├── pbix/
 │   └── Kerry_Financial_Dashboard.pbix     # Power BI report file
 ├── docs/

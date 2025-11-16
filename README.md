@@ -1,6 +1,6 @@
 <html><body>
 <!--StartFragment--><html><head></head><body><h1>Kerry Group Financial Performance Insights</h1>
-<p>This repository contains an interactive <strong>Power BI Dashboard</strong> built using <strong>Kerry Group’s publicly available financial data </strong> to analyse <strong>financial performance</strong> from <strong>FY 2022 through Q1 2025.</strong></p>
+<p>This repository contains an interactive <strong>Power BI Dashboard</strong> built using <strong>Kerry Group’s publicly available financial data </strong> to analyse its <strong>financial performance</strong> from <strong>FY 2022 through Q1 2025.</strong></p>
 <p>The project demonstrates:</p>
 <ul>
 <li>
